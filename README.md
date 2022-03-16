@@ -4,7 +4,7 @@ and I'm passionate about finding the nexus between business, data and sports.
 
 ## Reach me 🌎: 
 - On <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/morimatic/">LinkedIn</a> 💼
-- Via <a href="matic.mori@gmail.com">email</a> 📫
+- Via [email](matic.mori@gmail.com) 📫
 
 <!--
 **maticmori/maticmori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
