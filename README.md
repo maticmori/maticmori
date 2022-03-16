@@ -3,7 +3,7 @@
 and I'm passionate about finding the nexus between business, data and sports.
 
 ## Reach me 🌎: 
-- On <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/morimatic/">LinkedIn</a> 💼
+- On <a href="https://www.linkedin.com/in/morimatic/">LinkedIn</a> 💼
 - Via [email](mailto:matic.mori@gmail.com) 📫
 
 <!--
